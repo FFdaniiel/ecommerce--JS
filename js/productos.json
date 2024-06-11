@@ -1,0 +1,108 @@
+
+[
+    {
+        "id": 1,
+        "titulo": "Placa de Video XFX Radeon RX 6650 XT",
+        "imagen": "./../img/producto-1.jpg",
+        "oferta": "no",
+        "precio": 323.950
+    },
+    {
+        "id": 2,
+        "titulo": "Placa de Video XFX Radeon RX 6750 XT ULTRA 12GB GDDR6",
+        "imagen": "./../img/producto-2.jpg",
+        "oferta": "no",
+        "precio": 481.990
+    },
+    {
+        "id": 3,
+        "titulo": "Notebook Gamer Lenovo Legion 5 15ACH6A WQHD 2K",
+        "imagen": "./../img/producto-3.jpg",
+        "oferta": "no",
+        "precio":  116.9850
+    },
+    {
+        "id": 4,
+        "titulo": "Procesador Intel Core i5 12400F 4.4GHz Turbo Socket",
+        "imagen": "./../img/producto-4.jpg",
+        "oferta": "no",
+        "precio": 175.000
+    },
+    {
+        "id": 5,
+        "titulo": "Memoria Team DDR5 64GB (2x32GB) 6000Mhz",
+        "imagen": "./../img/producto-5.jpg",
+        "oferta": "no",
+        "precio": 248.910
+    },
+    {
+        "id": 6,
+        "titulo": "Placa de Video XFX Radeon RX 6750 XT",
+        "imagen": "./../img/producto-6.jpg",
+        "oferta": "no",
+        "precio": 481.990
+    },
+    {
+        "id": 7,
+        "titulo": "Fuente Cougar 750W 80 Plus Gold GEC750",
+        "imagen": "./../img/producto-7.jpg",
+        "oferta": "no",
+        "precio": 123550
+    },
+    {
+        "id": 8,
+        "titulo": "Memoria Team DDR5 32GB (2x16GB)",
+        "imagen": "./../img/producto-8.jpg",
+        "oferta": "no",
+        "precio": 739.990
+    },
+    {
+        "id": 9,
+        "titulo": "Notebook Dell Inspiron 3525 IPS FHD 15.6 Ryzen 5 5500U",
+        "imagen": "./../img/producto-9.jpg",
+        "oferta": "no",
+        "precio": 481.990
+    },
+    {
+        "id": 10,
+        "titulo": "Procesador AMD Ryzen 5 4500 + Wraith Stealth",
+        "imagen": "./../img/producto-10.jpg",
+        "oferta": "no",
+        "precio": 481.990
+    },
+    {
+        "id": 11,
+        "titulo": "Monitor ASUS 21.5 VP228HE TN Full HD 1ms HDMI VGA Audio",
+        "imagen": "./../img/producto-11.jpg",
+        "oferta": "no",
+        "precio": 481.990
+    },
+    {
+        "id": 12,
+        "titulo": "Cooler CPU DeepCool AK400 ZERO DARK PLUS",
+        "imagen": "./../img/producto-12.jpg",
+        "oferta": "no",
+        "precio": 81.990
+    },
+    {
+        "id": 13,
+        "titulo": "Fuente Antec 550W 80 Plus Bronze CSK550",
+        "imagen": "./../img/producto-13.jpg",
+        "oferta": "no",
+        "precio": 68.912
+    },
+    {
+        "id": 14,
+        "titulo": "Monitor ASUS 24 VP228HE TN Full HD 4k 1ms HDMI VGA Audio",
+        "imagen": "./../img/producto-14.jpg",
+        "oferta": "no",
+        "precio": 381.990
+    },
+    {
+        "id": 15,
+        "titulo": "Procesador AMD Ryzen 3 3600 + Wraith Stealth",
+        "imagen": "./../img/producto-15.jpg",
+        "oferta": "no",
+        "precio": 321.990
+    }
+]
